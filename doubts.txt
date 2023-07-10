@@ -1,0 +1,12 @@
+Additional Doubts:- 
+1. Don't know how to get the background picture of the ship which is present in the starting along with the video.
+2. Didn't know how to do curve styling before subscribe newsletter in the footer.
+3. Didn't know how to change navbar responsive.
+4. Didn't know how to change the "products, partners" footer responsive and add contact us.
+5. The background appears when I touch the video, doesn't look like automated.
+6. Bit difficult to make things responsive.
+
+Things not done since I though JS is required:-
+1. Navbar changing color when scrolling.
+2. Navbar items dropdown not working. 
+3.  Whatsapp contact us coming on the right side of the screen when scrolled when scrolled
